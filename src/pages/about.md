@@ -114,6 +114,9 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
+    subtitle: >-
+      Discover the steps e follo •to ensure that every prgectwe deliver is a
+      success
   - type: cta_section
     title: This is a Call to Action
     content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.

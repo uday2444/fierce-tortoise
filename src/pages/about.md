@@ -32,7 +32,7 @@ sections:
         actions: []
         align: left
         image: images/about-2.jpg
-      - title: lorem-ipsum
+      - title: Our Vision
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum

@@ -33,7 +33,6 @@ sections:
         align: left
         image: images/about-2.jpg
       - title: Our Vision
-        subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 

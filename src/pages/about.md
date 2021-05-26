@@ -41,6 +41,7 @@ sections:
         image_alt: Happy co-workers
         media_position: right
         media_width: fifty
+    align: right
   - type: grid_section
     title: Our Officess
     grid_items:

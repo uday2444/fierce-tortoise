@@ -31,7 +31,7 @@ sections:
         media_position: left
         media_width: fifty
         actions: []
-        align: right
+        align: left
       - title: Section Title Three
         subtitle: 'Donec nisl ligula, cursus id molestie vel. '
         content: >-

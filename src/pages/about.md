@@ -13,10 +13,10 @@ sections:
     features:
       - title: About Our Company
         subtitle: Reliable & Cost Efficient Company
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          ##### We are on a mission to empower each organization and individuals
+          to self sustain through our range of services and product
+          offerings&#xA;&#xA;
         image: images/about-5.jpg
         image_alt: People in conversation in the office lounge area
         media_position: right

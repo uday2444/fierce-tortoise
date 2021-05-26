@@ -24,7 +24,7 @@ sections:
       - title: Our Mission
         content: >
           our Technology -enabled solutions are tailored to meet the demands of
-          individuals & organisations. Our Technology-enabled solutions are
+          individuals & organizations. Our Technology-enabled solutions are
           tailored to meet the demands of individuals & organizations.
         image_alt: People in a conference room
         media_position: left

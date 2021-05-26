@@ -11,7 +11,7 @@ sections:
     background_image: images/beige-mahogany.webp
   - type: features_section
     features:
-      - title: Section Title One
+      - title: About Our Company
         subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl

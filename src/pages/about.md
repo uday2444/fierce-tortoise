@@ -5,6 +5,9 @@ sections:
     title: About Company
     align: center
     background_color: secondary
+    subtitle: >-
+      Designing your business to stay relevant with the digital era using the
+      design thinking process and data-driven analytics
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     content: >-

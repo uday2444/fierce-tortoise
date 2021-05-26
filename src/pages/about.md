@@ -21,8 +21,10 @@ sections:
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+      Designing your business to stay relevant with the digital era using the
+      design thinking process and data-driven analyticsDesigning your business
+      to stay relevant with the digital era using the design thinking process
+      and data-drivenrocess and data-driven analytics
     media_position: top
     media_width: fifty
     align: left

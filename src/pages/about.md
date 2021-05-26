@@ -34,10 +34,10 @@ sections:
         image: images/about-2.jpg
       - title: Section Title Three
         subtitle: 'Donec nisl ligula, cursus id molestie vel. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          our Technology -enabled solutions are tailored to meet the demands of
+          individuals & organizations. Our Technology-enabled solutions are
+          tailored to meet the demands of individuals & organizations.
         image: images/about-1.jpg
         image_alt: Happy co-workers
         media_position: right

@@ -204,7 +204,7 @@ sections:
   - type: cta_section
     title: New Era Of your Business Starts Here.
     actions:
-      - label: Compare Plans
+      - label: Call US
         url: /pricing
         style: primary
     align: center

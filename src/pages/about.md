@@ -32,16 +32,6 @@ sections:
         actions: []
         align: left
         image: images/about-2.jpg
-      - title: Section Title Three
-        subtitle: 'Donec nisl ligula, cursus id molestie vel. '
-        content: >
-          Our Technology -enabled solutions are tailored to meet the demands of
-          individuals & organizations. Our Technology-enabled solutions are
-          tailored to meet the demands of individuals & organizations.
-        image: images/about-1.jpg
-        image_alt: Happy co-workers
-        media_position: right
-        media_width: fifty
     align: right
   - type: grid_section
     title: Our Process

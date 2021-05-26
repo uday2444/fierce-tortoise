@@ -17,7 +17,7 @@ sections:
           We are on a mission to empower each organization and individuals to
           self sustain through our range of services and product offerings
 
-        image: images/about-5.jpg
+        image: images/about_2.png
         image_alt: People in conversation in the office lounge area
         media_position: right
         media_width: fifty

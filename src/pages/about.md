@@ -35,7 +35,7 @@ sections:
       - title: Section Title Three
         subtitle: 'Donec nisl ligula, cursus id molestie vel. '
         content: >
-          our Technology -enabled solutions are tailored to meet the demands of
+          Our Technology -enabled solutions are tailored to meet the demands of
           individuals & organizations. Our Technology-enabled solutions are
           tailored to meet the demands of individuals & organizations.
         image: images/about-1.jpg

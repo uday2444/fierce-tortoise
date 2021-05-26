@@ -22,10 +22,10 @@ sections:
         media_position: right
         media_width: fifty
       - title: Our Mission
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          our Technology -enabled solutions are tailored to meet the demands of
+          individuals & organisations. Our Technology-enabled solutions are
+          tailored to meet the demands of individuals & organizations.
         image_alt: People in a conference room
         media_position: left
         media_width: fifty

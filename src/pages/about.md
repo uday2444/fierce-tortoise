@@ -112,7 +112,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
-  - title: lorem-ipsum
+  - title: Success Stories
     subtitle: lorem-ipsum
     actions: []
     grid_items:

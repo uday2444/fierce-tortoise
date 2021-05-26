@@ -69,7 +69,8 @@
             },
             {
                 "url": "/style-guide",
-                "style": "link"
+                "style": "link",
+                "label": "Services"
             }
         ],
         "has_secondary_nav": true,

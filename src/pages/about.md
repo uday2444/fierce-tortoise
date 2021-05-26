@@ -33,17 +33,11 @@ sections:
         align: left
         image: images/about-2.jpg
       - title: Our Vision
-        content: >-
-          ## Lorem ipsum
+        content: >+
+          Our Technology -enabled solutions are tailored to meet the demands of
+          individuals & organizations. Our Technology-enabled solutions are
+          tailored to meet the demands of individuals & organizations.
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
         actions: []
         image_alt: lorem-ipsum
         media_position: top

@@ -2,7 +2,7 @@
 title: About
 sections:
   - type: hero_section
-    title: About
+    title: About Company
     align: center
     background_color: secondary
   - title: lorem-ipsum

@@ -115,7 +115,7 @@ sections:
     has_border: false
     background_color: none
     subtitle: >-
-      Discover the steps e follo •to ensure that every prgectwe deliver is a
+      Discover the steps e follo •to ensure that every project deliver is a
       success
   - type: cta_section
     title: This is a Call to Action

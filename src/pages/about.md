@@ -48,13 +48,7 @@ sections:
     grid_items:
       - content: "First, we seek to understand your business and its users. This can be achieved through a number\r\nof methods including but not limited to phone calls/video conference, meetings and strategy\r\nsessions. By understanding your business and its goals, we can craft a solution that will meet these needs.\n"
         content_align: left
-        actions:
-          - label: Get Directions
-            url: 'https://goo.gl/maps/eh6fn7JjMS4vYs337'
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         actions_align: left
         actions_width: auto
         title: Understanding Your Business

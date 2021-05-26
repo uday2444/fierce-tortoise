@@ -202,7 +202,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - type: cta_section
-    title: New Era Of your Business Starts Here.
+    title: 'New Era Of your Business, Starts Here.'
     actions:
       - label: Call US
         url: /contact

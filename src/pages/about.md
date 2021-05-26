@@ -13,10 +13,10 @@ sections:
     features:
       - title: About Our Company
         subtitle: Reliable & Cost Efficient Company
-        content: >
-          ##### We are on a mission to empower each organization and individuals
-          to self sustain through our range of services and product
-          offerings&#xA;&#xA;
+        content: >+
+          We are on a mission to empower each organization and individuals to
+          self sustain through our range of services and product offerings
+
         image: images/about-5.jpg
         image_alt: People in conversation in the office lounge area
         media_position: right

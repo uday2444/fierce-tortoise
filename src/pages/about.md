@@ -31,6 +31,7 @@ sections:
         media_width: fifty
         actions: []
         align: left
+        image: images/about-2.jpg
       - title: Section Title Three
         subtitle: 'Donec nisl ligula, cursus id molestie vel. '
         content: >-

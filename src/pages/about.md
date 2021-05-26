@@ -44,7 +44,7 @@ sections:
         media_width: fifty
     align: right
   - type: grid_section
-    title: Our Officess
+    title: Our Process
     grid_items:
       - title: Some City
         content: >-

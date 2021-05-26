@@ -205,7 +205,7 @@ sections:
     title: New Era Of your Business Starts Here.
     actions:
       - label: Call US
-        url: /
+        url: /con
         style: primary
     align: center
     padding_top: medium

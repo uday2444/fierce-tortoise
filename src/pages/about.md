@@ -46,10 +46,7 @@ sections:
   - type: grid_section
     title: Our Process
     grid_items:
-      - content: >-
-          1234 Some St.<br/> Some City, ST 12345<br/>
-          [1-234-556-7890](tel:+12345567890)<br/>
-          [email@example.com](mailto:email@example.com)
+      - content: "First, we seek to understand your business and its users. This can be achieved through a number\r\nof methods including but not limited to phone calls/video conference, meetings and strategy\r\nsessions. By understanding your business and its goals, we can craft a solution that will meet these needs.\n"
         content_align: left
         actions:
           - label: Get Directions

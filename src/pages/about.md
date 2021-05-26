@@ -202,7 +202,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - type: cta_section
-    title: This is a Call to Action
+    title: New Era Of your Business Starts Here.
     content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
     actions:
       - label: Compare Plans

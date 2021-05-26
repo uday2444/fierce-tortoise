@@ -44,7 +44,7 @@ sections:
         media_width: fifty
     align: right
   - type: grid_section
-    title: Our Process
+    title: "Our Process\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Discover the steps we follow to ensure that every project deliver is a success"
     grid_items:
       - title: Some City
         content: >-

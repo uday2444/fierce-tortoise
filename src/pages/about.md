@@ -97,10 +97,18 @@ sections:
         actions_align: left
         actions_width: auto
       - title: Understanding Your Business
-        content: >-
-          1234 Some St.<br/> Some City, ST 12345<br/>
-          [1-234-556-7890](tel:+12345567890)<br/>
-          [email@example.com](mailto:email@example.com)
+        content: >
+          First, we seek to understand your business and its users. This can be
+          achieved through a number
+
+          of methods including but not limited to phone calls/video conference,
+          meetings and strategy
+
+          sessions. By understanding your business and its goals, we can craft a
+          solution that will meet these needs.
+
+
+          [](mailto:email@example.com)
         content_align: left
         actions:
           - label: Get Directions

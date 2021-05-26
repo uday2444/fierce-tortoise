@@ -9,6 +9,7 @@ sections:
       Designing your business to stay relevant with the digital era using the
       design thinking process and data-driven analytics
     image: images/about.webp
+    background_image: images/super-anemone.webp
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     content: >-

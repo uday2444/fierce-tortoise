@@ -24,10 +24,9 @@ sections:
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
-      Designing your business to stay relevant with the digital era using the
-      design thinking process and data-driven analyticsDesigning your business
-      to stay relevant with the digital era using the design thinking process
-      and data-drivenrocess and data-driven analytics
+      DesanalyticsDesigning your business to stay relevant with the digital era
+      using the design thinking process and data-drivenrocess and data-driven
+      analytics
     media_position: top
     media_width: fifty
     align: left

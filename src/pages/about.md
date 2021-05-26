@@ -8,7 +8,7 @@ sections:
     subtitle: >-
       Designing your business to stay relevant with the digital era using the
       design thinking process and data-driven analytics
-    background_image: images/super-anemone.webp
+    background_image: images/about-4.jpg
   - type: features_section
     features:
       - title: Section Title One

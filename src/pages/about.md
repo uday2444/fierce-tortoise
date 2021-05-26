@@ -44,6 +44,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        image: images/about-3.jpg
     align: right
   - type: grid_section
     title: Our Process
